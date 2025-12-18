@@ -1,0 +1,1 @@
+# Desafio-Quant_Ita--Asset_2024
