@@ -1,6 +1,6 @@
 # Desafio Quant | Itaú Asset - 2024
 
-# 🚀 CRYPO – Estrategista Quantitativo em Criptomoedas
+CRYPO – Estrategista Quantitativo em Criptomoedas
 
 O **CRYPO** é um projeto de estratégia quantitativa aplicada ao mercado de criptomoedas, desenvolvido em **Python**, com foco em **diversificação, rebalanceamento sistemático e uso de indicadores técnicos** para busca de retornos ajustados ao risco superiores ao Bitcoin.
 
